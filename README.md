@@ -6,7 +6,10 @@ In this challenge, i've created a password creator that has series of prompts fo
 
 
 ## Github Repo Link
+https://github.com/siddz415/Password-generator
 
 ## Github Pages Link
+https://siddz415.github.io/Password-generator/
 
 ## Screenshot
+![Screenshot of the Site](./pass.png?raw=true) 
