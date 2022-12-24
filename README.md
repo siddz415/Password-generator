@@ -12,4 +12,4 @@ https://github.com/siddz415/Password-generator
 https://siddz415.github.io/Password-generator/
 
 ## Screenshot
-![Screenshot of the Site](./pass.png?raw=true) 
+![Screenshot of the Site](./assets/pass.png) 
